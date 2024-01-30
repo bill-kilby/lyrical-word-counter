@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lyrical Word Counter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lyrical_Word_Counter_jar</output-path>
+    <root id="archive" name="Lyrical Word Counter.jar">
+      <element id="module-output" name="Lyrical Word Counter" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.17.2/jsoup-1.17.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

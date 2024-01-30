@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: org.bill_kilby.lyrical_word_counter.Main
+

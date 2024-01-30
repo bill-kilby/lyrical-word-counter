@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.bill_kilby.lyrical_word_counter"},{"l":"org.bill_kilby.lyrical_word_counter.data"}];updateSearchResults();
